@@ -81,7 +81,7 @@ button {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    padding: 24px 0 24px;
+    padding: 24px 0;
 }
 
 .page-link:hover {
@@ -230,9 +230,7 @@ h1 {
     margin-bottom: 8px;
 }
 
-.section-two-title {
-    margin-bottom: 8px;
-}
+
 
 .section-two-text,
 .section-three-text,
@@ -245,9 +243,7 @@ h1 {
 
 }
 
-.section-two-title {
-    margin-bottom: 72px;
-}
+
 
 .section-two-lists {
     display: flex;
