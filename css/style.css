@@ -1,8 +1,4 @@
-body {
-    font-family: 'Roboto', sans-serif;
-    background-color: #ffffff;
-    color: #434455
-}
+/* reset  */
 
 h1,
 h2,
@@ -32,13 +28,19 @@ button {
     cursor: pointer;
 }
 
-
-
 .container {
     width: 1158px;
     margin: 0 156px;
     margin: 0 auto;
     padding: 0 15px;
+}
+
+/* body  */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+    color: #434455
 }
 
 /* header  */
